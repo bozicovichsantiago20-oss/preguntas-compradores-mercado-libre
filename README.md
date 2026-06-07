@@ -1,6 +1,6 @@
 # Preguntas de compradores Mercado Libre
 
-Entrada recomendada: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html?src=github-readme&utm_campaign=preguntas-compradores-mercado-libre?src=github-readme&utm_campaign=preguntas-compradores-mercado-libre
+Entrada recomendada: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html?src=github-readme&utm_campaign=preguntas-compradores-mercado-libre
 
 Micrositio con herramienta gratis para vendedores que necesitan priorizar preguntas de compradores y responder mas rapido.
 
